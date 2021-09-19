@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Blueetoo
-- 👀 I’m interested in to programming and scripting
-- 🌱 I’m currently learning Python, Java and Bash
+- 👀 I’m interested in creating cool projects and helping other and proving value anyway I can
+- 🌱 I’m currently working on improving my Python programing skills
 - 💞️ I’m looking to collaborate on any cool project that may come to mind
 - 📫 How to reach me: you can reach me via email at caulkhalil@gmail.com
 
